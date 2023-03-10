@@ -1,6 +1,6 @@
 export default function Hobby() {
   return (
-    <div class="items-center justify-center sm:gap-2 pt-20 grid grid-cols-2 sm:flex">
+    <div class="items-center justify-center gap-4 mt-16 grid grid-cols-2 sm:flex">
      
         <div class="bg-white rounded">
           <ul class="relative m-1">

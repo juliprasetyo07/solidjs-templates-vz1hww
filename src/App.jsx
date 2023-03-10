@@ -19,19 +19,20 @@ import SelectedProductBottom from './component/SelectedProductBottom';
 
 function App() {
   return (
-    <>
+    
    
-      <div class="bg-dark ">
-        <div class="max-w-6xl mx-2 sm:mx-auto">
+<section class="w-screen"> 
+        <div class="bg-dark ">
+        <div class="sm:max-w-6xl mx-2 sm:mx-auto">
           <TopBar />
         </div>
       </div>
-      <div class=" bg-white mx-2 sm:mx-auto max-w-6xl">
+      <div class=" bg-white mx-2 sm:mx-auto sm:max-w-6xl">
         <Header />
         <CategoriesNavbar />
       </div>
       <div class="bg-gray">
-        <div class="max-w-6xl mx-auto font-body">
+        <div class="sm:max-w-6xl mx-auto font-body">
           <FirstContent />
           <Superiority />
           <Hobby />
@@ -49,7 +50,8 @@ function App() {
         </div>
       </div>
       <NavbarBotom />
-    </>
+</section>
+    
   );
 }
 

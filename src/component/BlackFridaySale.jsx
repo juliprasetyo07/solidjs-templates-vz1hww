@@ -1,11 +1,11 @@
 export default function BlackFridaySale() {
   return (
-    <div class="bg-dark flex mx-2 sm:mx-0 h-20 my-20">
-      <div class="bg-graylight text-xl my- h-20 font-bold text-center w-1/4 ">
-       <p class="sm:my-6"> BLACK FRIDAY SALE</p>
+    <div class="bg-dark flex mx-2 sm:mx-0 mt-20">
+      <div class="font-bold flex bg-graydark mx-auto my-auto w-1/4 py-2">
+       <p class="my-6 mx-auto"> BLACK FRIDAY SALE</p>
       </div>
       <div class="text-white border border-dashed sm:flex m-3  w-full">
-        <div class=" italic sm:my-2 text-sm sm:text-3xl w-full text-center ">
+        <div class=" italic sm:my-auto sm:mx-auto text-sm sm:text-3xl w-full text-center ">
           PAY ONLY FOR <span class="font-medium" >YOUR LOVING ELECTRONICS</span>
         </div>
       

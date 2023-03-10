@@ -1,7 +1,7 @@
 import { OcHorizontalrule2 } from 'solid-icons/oc';
 export default function WatchAndSpeaker() {
   return (
-    <div class="grid sm:grid-cols-2 sm:py-10 gap-1 sm:gap-10 ">
+    <div class="grid sm:grid-cols-2 sm:my-8 gap-1 sm:gap-10 ">
       <button class="relative">
         <div class="absolute ml-5 sm:mt-5">
           <p class="font-medium text-left">Final Reduction</p>

@@ -86,7 +86,7 @@ export default function CategoriesNavbar() {
           <button class="flex  hover:text-red cursor-default">
             Full Screen Menu <FaSolidAngleDown class="my-auto ml-1" />
           </button>
-          <div class="absolute top-0 pt-2 pl-4 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 w-screen transform ">
+          <div class="absolute top-0 pt-2 pl-4 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 transform ">
             <div class="relative top-5 p-6 rounded-xl bg-white shadow-2xl w-full leading-9">
               <p class="hover:text-red hover:scale-150 hover:text-center">
                 
@@ -149,7 +149,7 @@ export default function CategoriesNavbar() {
           <button class="flex  hover:text-red cursor-default">
             Vendor Account <FaSolidAngleDown class="my-auto ml-1" />
           </button>
-          <div class="absolute top-0 pt-2 pl-4 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[280px] transform ">
+          <div class="absolute top-0 pt-2 pl-4 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 w-full transform ">
             <div class="relative top-5 p-6 rounded-xl bg-white shadow-2xl w-full leading-9">
               <p class="hover:text-red hover:scale-150 hover:text-center">
                Dashbord

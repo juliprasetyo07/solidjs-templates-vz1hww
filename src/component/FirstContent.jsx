@@ -2,7 +2,7 @@ import { FaSolidArrowRightLong } from 'solid-icons/fa';
 
 export default function FirstContent() {
   return (
-    <section class="py-3 w-full relative  mx-auto sm:flex ">
+    <section class="py-3 max-w-full relative  mx-auto sm:flex ">
       <div
         class="absolute w-1/2  text-left ml-4 sm:ml-24
        sm:my-32  sm:leading-8 "
@@ -18,7 +18,7 @@ export default function FirstContent() {
         </button>
       </div>
       <img
-        class="sm:max-w-3xl mx-auto mb-2"
+        class="sm:w-3/5 mx-auto mb-2"
         src="https://bazaar.ui-lib.com/assets/images/banners/banner-15.jpg"
       />
 

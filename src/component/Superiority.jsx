@@ -6,7 +6,7 @@ import { TbTruckDelivery } from 'solid-icons/tb';
 
 export default function Superiority() {
   return (
-    <section class="text-4xl py-2 mx-auto text-center bg-white shadow-lg grid sm:grid-cols-4">
+    <section class="text-4xl py-7 mx-auto text-center bg-white grid sm:grid-cols-4">
       
        
       <button class=" flex items-center mx-auto pr-8 sm:border-r-2 border-graydark">

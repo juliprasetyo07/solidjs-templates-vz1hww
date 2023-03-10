@@ -7,7 +7,7 @@ export default function NavbarBotom() {
           class="mx-auto pt-5 sm:pt-0 pb-5"
           src="https://bazaar.ui-lib.com/assets/images/logo.svg"
         /></div>
-        <p>
+        <p class="text-graydark">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero
           id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus
           vel ut sollicitudin elit at amet.
@@ -21,9 +21,9 @@ export default function NavbarBotom() {
           </li>
         </ul>
       </div>
-      <div class="sm:pl-20 text-center sm:text-left sm:leading-9">
+      <div class="sm:pl-20 pl-5 text-left sm:leading-9">
         <h1 class="texl pt-3-sm:xl pb-3 font-medium">About Us</h1>
-        <div class="font-light text-xs sm:text-xm sm:leading-7 grid">
+        <div class="font-light text-graylight gap-3 text-xs sm:text-xm sm:leading-7 grid">
           <a href="#">Careers</a>
           <a href="#">Our Stores</a>
           <a href="#">Our Cares</a>
@@ -31,9 +31,9 @@ export default function NavbarBotom() {
           <a href="#">Arivacy Policy</a>
         </div>
       </div>
-      <div class="items-right text-center sm:text-left sm:leading-9">
+      <div class="pl-5 items-right text-left sm:leading-9">
         <h1 class="text-xl pt-3 sm:pb-3 font-medium">Customer Care</h1>
-        <div class="font-light text-xs sm:text-xm sm:leading-7 grid">
+        <div class="font-light text-graylight gap-3 text-xs sm:text-xm sm:leading-7 grid">
           <a href="#">Help Center</a>
           <a href="#">How To Buy</a>
           <a href="#">Track Your Order</a>
@@ -44,7 +44,7 @@ export default function NavbarBotom() {
       <div class="leading-7 text-center sm:text-left">
         <h1 class="text-xl pb-3 font-medium">Contact Us</h1>
         <div cclass="font-light">
-          <p>70 Washington Square South, New York, NY 10012, United States</p>
+          <p> 70 Washington Square South, New York, NY 10012, United States</p>
           <p>Email: uilib.help@gmail.com</p>
           <p>Phone: +1 1123 456 780</p>
         </div>
